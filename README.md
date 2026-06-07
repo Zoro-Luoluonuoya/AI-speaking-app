@@ -115,19 +115,19 @@ npm run dev
 
 ### 首页 — 场景选择
 
-![image-20260608003235472](C:\Users\27452\AppData\Roaming\Typora\typora-user-images\image-20260608003235472.png)
+![首页](./docs/screenshots/home.png)
 
 ### 对话页 — 实时语音交流
 
-![image-20260608003311353](C:\Users\27452\AppData\Roaming\Typora\typora-user-images\image-20260608003311353.png)
+![对话](./docs/screenshots/chat.png)
 
 ### 语法纠错
 
-![image-20260608003418417](C:\Users\27452\AppData\Roaming\Typora\typora-user-images\image-20260608003418417.png)
+![纠错](./docs/screenshots/grammar.png)
 
 ### 总结报告
 
-![image-20260608003447906](C:\Users\27452\AppData\Roaming\Typora\typora-user-images\image-20260608003447906.png)
+![报告](./docs/screenshots/report.png)
 
 ## API 接口
 
