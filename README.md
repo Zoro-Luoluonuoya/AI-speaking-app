@@ -111,6 +111,15 @@ npm run dev
 
 打开浏览器访问 [http://localhost:3000](http://localhost:3000)
 
+## 演示视频
+
+https://github.com/Zoro-Luoluonuoya/A-/assets/docs/screenshots/demo.mp4
+
+<details>
+<summary>点击播放演示视频</summary>
+<video src="https://github.com/Zoro-Luoluonuoya/A-/raw/main/docs/screenshots/demo.mp4" controls width="100%"></video>
+</details>
+
 ## 项目截图
 
 ### 首页 — 场景选择
