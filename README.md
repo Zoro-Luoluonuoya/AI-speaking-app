@@ -113,11 +113,11 @@ npm run dev
 
 ## 演示视频
 
-https://github.com/Zoro-Luoluonuoya/A-/assets/docs/screenshots/demo.mp4
+https://github.com/Zoro-Luoluonuoya/AI-speaking-app/assets/docs/screenshots/demo.mp4
 
 <details>
 <summary>点击播放演示视频</summary>
-<video src="https://github.com/Zoro-Luoluonuoya/A-/raw/main/docs/screenshots/demo.mp4" controls width="100%"></video>
+<video src="https://github.com/Zoro-Luoluonuoya/AI-speaking-app/raw/main/docs/screenshots/demo.mp4" controls width="100%"></video>
 </details>
 
 ## 项目截图
