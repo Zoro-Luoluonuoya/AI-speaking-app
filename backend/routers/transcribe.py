@@ -11,7 +11,7 @@ router = APIRouter()
 
 FFMPEG = os.path.join(
     os.path.dirname(os.path.dirname(__file__)),
-    ".venv",
+    "venv",
     "Lib",
     "site-packages",
     "imageio_ffmpeg",
