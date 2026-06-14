@@ -113,9 +113,9 @@ npm run dev
 
 ## 演示视频
 
-https://github.com/Zoro-Luoluonuoya/AI-speaking-app/raw/main/docs/screenshots/demo.mp4
+https://github.com/Zoro-Luoluonuoya/AI-speaking-app/raw/main/docs/screenshots/demo55.mp4
 
-<video src="https://github.com/Zoro-Luoluonuoya/AI-speaking-app/raw/main/docs/screenshots/demo.mp4" controls width="100%"></video>
+<video src="https://github.com/Zoro-Luoluonuoya/AI-speaking-app/raw/main/docs/screenshots/demo55.mp4" controls width="100%"></video>
 
 ## 项目截图
 
